@@ -11,6 +11,8 @@
     </a>
 </p>
 
+<b>此repo是Chinese-CLIP repo旧版代码的一份fork，目前Chinese-CLIP repo已于官方位置重新Open并保持更新维护，请访问https://github.com/OFA-Sys/Chinese-CLIP</b>
+
 本项目为CLIP模型的**中文**版本，使用大规模中文数据进行训练（~2亿图文对），旨在帮助用户实现中文领域的跨模态检索、图像表示等。本项目代码基于<b>[open_clip project](https://github.com/mlfoundations/open_clip)</b>建设，并针对中文领域数据以及在中文数据上实现更好的效果做了优化。更多细节将在下文中介绍。
 <br><br>
 
